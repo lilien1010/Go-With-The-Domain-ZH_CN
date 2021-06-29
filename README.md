@@ -9,6 +9,7 @@
 
 - 作者： [Robert Laszczak&Miłosz Smółka](https://threedots.tech)
 - 原书名称：[《Go with the Domain》](https://threedots.tech/)
+- Gitbook阅读地址：[《G领域驱动设计（DDD）Golang 实践》](https://lien.gitbook.io/translation-hub/v/ji-yu-golang-gou-jian-xian-dai-shang-ye-ruan-jian/)
 - 译者：[李凌 Lien]( http://github.com/about) （ liling@apache.org ） 
 - 使用[Typora](https://www.typora.io)或Gitbook以获取最佳阅读体验。
 
